@@ -3,7 +3,7 @@ import sys
 import spacy
 
 if len(sys.argv) != 3:
-    print("Usage: tag.py <inputfile> <outputfile>")
+    print("Usage: spacy.py <inputfile> <outputfile>")
     sys.exit(-1)
 
 input = open(sys.argv[1], "r").read()
