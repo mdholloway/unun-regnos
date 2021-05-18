@@ -1,0 +1,856 @@
+Papaya papaya NOUN NN nsubj Xxxxx True False
+is be AUX VBZ ccomp xx True True
+a a DET DT det x True True
+tall tall ADJ JJ amod xxxx True False
+herbaceous herbaceous ADJ JJ amod xxxx True False
+plant plant NOUN NN attr xxxx True False
+in in ADP IN prep xx True True
+the the DET DT det xxx True True
+genus genus NOUN NN pobj xxxx True False
+Carica Carica PROPN NNP appos Xxxxx True False
+; ; PUNCT : punct ; False False
+its its PRON PRP$ poss xxx True True
+edible edible ADJ JJ amod xxxx True False
+fruit fruit NOUN NN nsubjpass xxxx True False
+is be AUX VBZ auxpass xx True True
+also also ADV RB advmod xxxx True True
+called call VERB VBN ROOT xxxx True False
+papaya papaya NOUN NN oprd xxxx True False
+. . PUNCT . punct . False False
+It it PRON PRP nsubj Xx True True
+is be AUX VBZ ROOT xx True True
+native native ADJ JJ acomp xxxx True False
+to to ADP IN prep xx True True
+the the DET DT det xxx True True
+tropical tropical ADJ JJ amod xxxx True False
+region region NOUN NN pobj xxxx True False
+of of ADP IN prep xx True True
+America America PROPN NNP pobj Xxxxx True False
+, , PUNCT , punct , False False
+mainly mainly ADV RB advmod xxxx True False
+from from ADP IN prep xxxx True True
+southern southern ADJ JJ amod xxxx True False
+Mexico Mexico PROPN NNP pobj Xxxxx True False
+to to ADP IN prep xx True True
+Central Central PROPN NNP compound Xxxxx True False
+America America PROPN NNP pobj Xxxxx True False
+. . PUNCT . punct . False False
+Now now ADV RB advmod Xxx True True
+these these DET DT det xxxx True True
+plants plant NOUN NNS nsubjpass xxxx True False
+are be AUX VBP auxpass xxx True True
+grown grow VERB VBN ROOT xxxx True False
+in in ADP IN prep xx True True
+all all DET DT det xxx True True
+tropical tropical ADJ JJ amod xxxx True False
+regions region NOUN NNS pobj xxxx True False
+of of ADP IN prep xx True True
+the the DET DT det xxx True True
+world world NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+Papayas Papayas PROPN NNP nsubj Xxxxx True False
+are be AUX VBP ROOT xxx True True
+plants plant NOUN NNS attr xxxx True False
+of of ADP IN prep xx True True
+tropical tropical ADJ JJ amod xxxx True False
+regions region NOUN NNS pobj xxxx True False
+and and CCONJ CC cc xxx True True
+, , PUNCT , punct , False False
+for for ADP IN prep xxx True True
+growth growth NOUN NN nmod xxxx True False
+and and CCONJ CC cc xxx True True
+fruit fruit NOUN NN conj xxxx True False
+production production NOUN NN pobj xxxx True False
+, , PUNCT , punct , False False
+they they PRON PRP nsubj xxxx True True
+need need VERB VBP conj xxxx True False
+a a DET DT det x True True
+warm warm ADJ JJ amod xxxx True False
+climate climate NOUN NN dobj xxxx True False
+. . PUNCT . punct . False False
+They they PRON PRP nsubj Xxxx True True
+can can AUX MD aux xxx True True
+not not PART RB neg xxx True True
+live live VERB VB ROOT xxxx True False
+with with ADP IN prep xxxx True True
+low low ADJ JJ amod xxx True False
+temperatures temperature NOUN NNS pobj xxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+This this DET DT nsubj Xxxx True True
+is be AUX VBZ ROOT xx True True
+now now ADV RB advmod xxx True True
+the the DET DT det xxx True True
+only only ADJ JJ amod xxxx True True
+species specie NOUN NNS attr xxxx True False
+in in ADP IN prep xx True True
+its its PRON PRP$ poss xxx True True
+genus genus NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+As as ADP IN prep Xx True True
+a a DET DT det x True True
+result result NOUN NN pobj xxxx True False
+of of ADP IN prep xx True True
+genetic genetic ADJ JJ amod xxxx True False
+research research NOUN NN pobj xxxx True False
+, , PUNCT , punct , False False
+the the DET DT det xxx True True
+other other ADJ JJ amod xxxx True True
+species specie NOUN NNS nsubjpass xxxx True False
+were be AUX VBD auxpass xxxx True True
+put put VERB VBN ROOT xxx True True
+in in ADP IN prep xx True True
+three three NUM CD nummod xxxx True True
+new new ADJ JJ amod xxx True False
+genera genera NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+The the DET DT det Xxx True True
+genus genus NOUN NN ROOT xxxx True False
+Carica Carica PROPN NNP nsubjpass Xxxxx True False
+was be AUX VBD auxpass xxx True True
+given give VERB VBN relcl xxxx True False
+that that DET DT det xxxx True True
+name name NOUN NN dobj xxxx True True
+by by ADP IN agent xx True True
+Linnaeus Linnaeus PROPN NNP pobj Xxxxx True False
+because because SCONJ IN mark xxxx True True
+the the DET DT det xxx True True
+leaves leave NOUN NNS nsubj xxxx True False
+of of ADP IN prep xx True True
+these these DET DT det xxxx True True
+plants plant NOUN NNS pobj xxxx True False
+are be VERB VBP advcl xxx True True
+like like ADP IN prep xxxx True False
+those those DET DT pobj xxxx True True
+of of ADP IN prep xx True True
+the the DET DT det xxx True True
+common common ADJ JJ amod xxxx True False
+fig fig NOUN NN pobj xxx True False
+( ( PUNCT -LRB- punct ( False False
+Ficus Ficus PROPN NNP compound Xxxxx True False
+carica carica NOUN NN appos xxxx True False
+) ) PUNCT -RRB- punct ) False False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+The the DET DT det Xxx True True
+common common ADJ JJ amod xxxx True False
+name name NOUN NN nsubj xxxx True True
+comes come VERB VBZ ROOT xxxx True False
+from from ADP IN prep xxxx True True
+the the DET DT det xxx True True
+Taíno Taíno PROPN NNP compound Xxxxx True False
+word word NOUN NN compound xxxx True False
+papáia papáia NOUN NNS pobj xxxx True False
+that that DET WDT nsubjpass xxxx True True
+was be AUX VBD auxpass xxx True True
+changed change VERB VBN relcl xxxx True False
+in in ADP IN prep xx True True
+Spanish Spanish PROPN NNP pobj Xxxxx True False
+to to PART TO aux xx True True
+papaya papaya VERB VB advcl xxxx True False
+, , PUNCT , punct , False False
+the the DET DT det xxx True True
+word word NOUN NN npadvmod xxxx True False
+most most ADV RBS advmod xxxx True True
+used use VERB VBN acl xxxx True True
+worldwide worldwide ADV RB advmod xxxx True False
+, , PUNCT , punct , False False
+with with ADP IN prep xxxx True True
+some some DET DT det xxxx True True
+changes change NOUN NNS pobj xxxx True False
+. . PUNCT . punct . False False
+In in ADP IN prep Xx True True
+Australia Australia PROPN NNP pobj Xxxxx True False
+and and CCONJ CC cc xxx True True
+some some DET DT det xxxx True True
+countries country NOUN NNS conj xxxx True False
+of of ADP IN prep xx True True
+the the DET DT det xxx True True
+Caribbean Caribbean PROPN NNP pobj Xxxxx True False
+, , PUNCT , punct , False False
+the the DET DT det xxx True True
+fruit fruit NOUN NN nsubjpass xxxx True False
+is be AUX VBZ auxpass xx True True
+called call VERB VBN ROOT xxxx True False
+papaw papaw NOUN NN oprd xxxx True False
+or or CCONJ CC cc xx True True
+pawpaw pawpaw NOUN NN conj xxxx True False
+but but CCONJ CC cc xxx True True
+another another DET DT det xxxx True True
+North north ADJ JJ amod Xxxxx True False
+American american ADJ JJ amod Xxxxx True False
+plant plant NOUN NN conj xxxx True False
+, , PUNCT , punct , False False
+Asimina Asimina PROPN NNP compound Xxxxx True False
+triloba triloba NOUN NN oprd xxxx True False
+of of ADP IN prep xx True True
+the the DET DT det xxx True True
+Annonaceae Annonaceae PROPN NNP compound Xxxxx True False
+family family NOUN NN pobj xxxx True False
+has have VERB VBZ conj xxx True True
+also also ADV RB advmod xxxx True True
+that that DET DT det xxxx True True
+name name NOUN NN dobj xxxx True True
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+The the DET DT det Xxx True True
+French french ADJ JJ amod Xxxxx True False
+name name NOUN NN nsubj xxxx True True
+for for ADP IN prep xxx True True
+the the DET DT det xxx True True
+fruit fruit NOUN NN pobj xxxx True False
+is be AUX VBZ ROOT xx True True
+papaye papaye ADJ JJ acomp xxxx True False
+and and CCONJ CC cc xxx True True
+papayer papayer ADJ JJ conj xxxx True False
+for for ADP IN prep xxx True True
+the the DET DT det xxx True True
+plant plant NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+In in ADP IN prep Xx True True
+Portuguese portuguese ADJ JJ pobj Xxxxx True False
+, , PUNCT , punct , False False
+the the DET DT det xxx True True
+fruit fruit NOUN NN nsubjpass xxxx True False
+is be AUX VBZ auxpass xx True True
+called call VERB VBN ROOT xxxx True False
+mamão mamão ADJ JJ oprd xxxx True False
+, , PUNCT , punct , False False
+papaia papaia ADJ JJ conj xxxx True False
+or or CCONJ CC cc xx True True
+ababaia ababaia NOUN NN conj xxxx True False
+and and CCONJ CC cc xxx True True
+the the DET DT det xxx True True
+tree tree NOUN NN compound xxxx True False
+mamoeiro mamoeiro PROPN NNP conj xxxx True False
+or or CCONJ CC cc xx True True
+papaeira papaeira NOUN NN conj xxxx True False
+. . PUNCT . punct . False False
+In in ADP IN prep Xx True True
+Kerala Kerala PROPN NNP pobj Xxxxx True False
+it it PRON PRP nsubj xx True True
+commonly commonly ADV RB advmod xxxx True False
+known know VERB VBN advcl xxxx True False
+as as ADP IN prep xx True True
+Kapanga Kapanga PROPN NNP compound Xxxxx True False
+- - PUNCT HYPH punct - False False
+കപ്പങ്ങ. കപ്പങ്ങ. PROPN NNP pobj xx്xx്x. False False
+In in ADP IN prep Xx True True
+Spanish spanish ADJ JJ pobj Xxxxx True False
+, , PUNCT , punct , False False
+there there PRON EX expl xxxx True True
+are be AUX VBP ROOT xxx True True
+other other ADJ JJ amod xxxx True True
+names name NOUN NNS attr xxxx True False
+besides besides SCONJ IN prep xxxx True True
+papaya papaya NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+In in ADP IN prep Xx True True
+Cuba Cuba PROPN NNP pobj Xxxx True False
+, , PUNCT , punct , False False
+it it PRON PRP nsubjpass xx True True
+is be AUX VBZ auxpass xx True True
+called call VERB VBN ROOT xxxx True False
+fruta fruta NOUN NN compound xxxx True False
+bomba bomba NOUN NN oprd xxxx True False
+except except SCONJ IN prep xxxx True True
+in in ADP IN prep xx True True
+the the DET DT det xxx True True
+eastern eastern ADJ JJ amod xxxx True False
+provinces province NOUN NNS pobj xxxx True False
+where where ADV WRB advmod xxxx True True
+papaya papaya NOUN NN nsubjpass xxxx True False
+is be AUX VBZ auxpass xx True True
+used use VERB VBN relcl xxxx True True
+. . PUNCT . punct . False False
+In in ADP IN prep Xx True True
+the the DET DT det xxx True True
+Dominican Dominican PROPN NNP compound Xxxxx True False
+Republic Republic PROPN NNP pobj Xxxxx True False
+, , PUNCT , punct , False False
+Los Los PROPN NNP compound Xxx True False
+Llanos Llanos PROPN NNP nsubj Xxxxx True False
+( ( PUNCT -LRB- punct ( False False
+Venezuela Venezuela PROPN NNP appos Xxxxx True False
+) ) PUNCT -RRB- punct ) False False
+and and CCONJ CC cc xxx True True
+Eastern Eastern PROPN NNP compound Xxxxx True False
+Central Central PROPN NNP compound Xxxxx True False
+Colombia Colombia PROPN NNP conj Xxxxx True False
+, , PUNCT , punct , False False
+the the DET DT det xxx True True
+name name NOUN NN nsubj xxxx True True
+is be AUX VBZ ROOT xx True True
+lechosa lechosa NOUN NNS attr xxxx True False
+. . PUNCT . punct . False False
+In in ADP IN prep Xx True True
+Argentina Argentina PROPN NNP pobj Xxxxx True False
+and and CCONJ CC cc xxx True True
+Paraguay Paraguay PROPN NNP conj Xxxxx True False
+, , PUNCT , punct , False False
+the the DET DT det xxx True True
+fruit fruit NOUN NN nsubjpass xxxx True False
+is be AUX VBZ auxpass xx True True
+called call VERB VBN ROOT xxxx True False
+mamón mamón ADJ JJ oprd xxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+Other other ADJ JJ amod Xxxxx True True
+names name NOUN NNS nsubjpass xxxx True False
+and and CCONJ CC cc xxx True True
+translations translation NOUN NNS conj xxxx True False
+can can AUX MD aux xxx True True
+be be AUX VB auxpass xx True True
+seen see VERB VBN ROOT xxxx True False
+at at ADP IN prep xx True True
+Wiktionary Wiktionary PROPN NNP pobj Xxxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+It it PRON PRP nsubj Xx True True
+is be AUX VBZ ccomp xx True True
+a a DET DT det x True True
+large large ADJ JJ amod xxxx True False
+plant plant NOUN NN attr xxxx True False
+, , PUNCT , punct , False False
+like like ADP IN prep xxxx True False
+a a DET DT det x True True
+tree tree NOUN NN pobj xxxx True False
+, , PUNCT , punct , False False
+usually usually ADV RB advmod xxxx True False
+without without ADP IN prep xxxx True True
+branches branch NOUN NNS pobj xxxx True False
+; ; PUNCT : punct ; False False
+it it PRON PRP nsubj xx True True
+is be AUX VBZ ROOT xx True True
+a a DET DT det x True True
+herbaceous herbaceous ADJ JJ amod xxxx True False
+plant plant NOUN NN attr xxxx True False
+because because SCONJ IN mark xxxx True True
+the the DET DT det xxx True True
+stem stem NOUN NN nsubj xxxx True False
+does do AUX VBZ aux xxxx True True
+not not PART RB neg xxx True True
+have have VERB VB advcl xxxx True True
+much much ADJ JJ amod xxxx True True
+wood wood NOUN NN dobj xxxx True False
+and and CCONJ CC cc xxx True True
+remains remain VERB VBZ conj xxxx True False
+soft soft ADJ JJ acomp xxxx True False
+and and CCONJ CC cc xxx True True
+green green ADJ JJ conj xxxx True False
+until until ADP IN prep xxxx True True
+its its PRON PRP$ poss xxx True True
+death death NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+The the DET DT det Xxx True True
+single single ADJ JJ amod xxxx True False
+stem stem NOUN NN nsubj xxxx True False
+grows grow VERB VBZ ROOT xxxx True False
+from from ADP IN prep xxxx True True
+5 5 NUM CD quantmod d False False
+to to PART TO quantmod xx True True
+10 10 NUM CD pobj dd False False
+m m NOUN NN npadvmod x True False
+tall tall ADJ JJ acomp xxxx True False
+with with ADP IN prep xxxx True True
+all all DET PDT predet xxx True True
+the the DET DT det xxx True True
+leaves leave NOUN NNS pobj xxxx True False
+on on ADP IN prep xx True True
+the the DET DT det xxx True True
+top top NOUN NN pobj xxx True True
+. . PUNCT . punct . False False
+The the DET DT det Xxx True True
+leaves leave NOUN NNS nsubj xxxx True False
+are be AUX VBP ROOT xxx True True
+large large ADJ JJ acomp xxxx True False
+, , PUNCT , punct , False False
+50–70 50–70 NUM CD nummod dd–dd False False
+cm cm NOUN NNS npadvmod xx True False
+wide wide ADJ JJ acomp xxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+Some some DET DT det Xxxx True True
+plants plant NOUN NNS nsubj xxxx True False
+have have AUX VBP aux xxxx True True
+perfect perfect ADJ JJ amod xxxx True False
+( ( PUNCT -LRB- punct ( False False
+with with ADP IN prep xxxx True True
+female female ADJ JJ amod xxxx True False
+and and CCONJ CC cc xxx True True
+male male ADJ JJ conj xxxx True False
+organs organ NOUN NNS pobj xxxx True False
+) ) PUNCT -RRB- punct ) False False
+flowers flower NOUN NNS nsubj xxxx True False
+but but CCONJ CC cc xxx True True
+other other ADJ JJ amod xxxx True True
+plants plant NOUN NNS conj xxxx True False
+have have VERB VBP ROOT xxxx True True
+flowers flower NOUN NNS dobj xxxx True False
+with with ADP IN prep xxxx True True
+only only ADV RB advmod xxxx True True
+one one NUM CD nummod xxx True True
+sex sex NOUN NN pobj xxx True False
+( ( PUNCT -LRB- punct ( False False
+female female ADJ JJ amod xxxx True False
+or or CCONJ CC cc xx True True
+male male NOUN NN conj xxxx True False
+) ) PUNCT -RRB- punct ) False False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+Generally generally ADV RB advmod Xxxxx True False
+, , PUNCT , punct , False False
+the the DET DT det xxx True True
+fruit fruit NOUN NN nsubj xxxx True False
+is be AUX VBZ ROOT xx True True
+oval oval ADJ JJ acomp xxxx True False
+to to ADP IN prep xx True True
+nearly nearly ADV RB advmod xxxx True False
+round round ADJ JJ pobj xxxx True False
+and and CCONJ CC cc xxx True True
+, , PUNCT , punct , False False
+in in ADP IN prep xx True True
+some some DET DT det xxxx True True
+cases case NOUN NNS pobj xxxx True False
+, , PUNCT , punct , False False
+like like ADP IN prep xxxx True False
+a a DET DT det x True True
+big big ADJ JJ amod xxx True False
+pear pear NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+Fruits fruit NOUN NNS nsubj Xxxxx True False
+are be AUX VBP ROOT xxx True True
+15 15 NUM CD nummod dd False False
+- - SYM SYM punct - False False
+50 50 NUM CD nummod dd False False
+cm cm NOUN NNS npadvmod xx True False
+long long ADJ JJ acomp xxxx True False
+and and CCONJ CC cc xxx True True
+10–20 10–20 NUM CD nummod dd–dd False False
+cm cm NOUN NN npadvmod xx True False
+wide wide ADJ JJ conj xxxx True False
+, , PUNCT , punct , False False
+and and CCONJ CC cc xxx True True
+weigh weigh VERB VB conj xxxx True False
+up up ADP RP prt xx True True
+to to ADP IN quantmod xx True True
+9 9 NUM CD nummod d False False
+kg kg NOUN NNS dobj xx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+The the DET DT det Xxx True True
+skin skin NOUN NN nsubj xxxx True False
+of of ADP IN prep xx True True
+the the DET DT det xxx True True
+fruit fruit NOUN NN pobj xxxx True False
+is be AUX VBZ ccomp xx True True
+thin thin ADJ JJ acomp xxxx True False
+and and CCONJ CC cc xxx True True
+tough tough ADJ JJ conj xxxx True False
+; ; PUNCT : punct ; False False
+it it PRON PRP nsubjpass xx True True
+is be AUX VBZ auxpass xx True True
+not not PART RB neg xxx True True
+eaten eat VERB VBN ROOT xxxx True False
+because because SCONJ IN mark xxxx True True
+is be VERB VBZ advcl xx True True
+too too ADV RB advmod xxx True True
+bitter bitter ADJ JJ acomp xxxx True False
+. . PUNCT . punct . False False
+First first ADV RB advmod Xxxxx True True
+, , PUNCT , punct , False False
+the the DET DT det xxx True True
+skin skin NOUN NN nsubj xxxx True False
+is be AUX VBZ ROOT xx True True
+green green ADJ JJ acomp xxxx True False
+but but CCONJ CC cc xxx True True
+it it PRON PRP nsubj xx True True
+changes change VERB VBZ conj xxxx True False
+to to AUX IN aux xx True True
+yellow yellow VERB VB xcomp xxxx True False
+in in ADP IN prep xx True True
+ripe ripe ADJ JJ amod xxxx True False
+fruits fruit NOUN NNS pobj xxxx True False
+, , PUNCT , punct , False False
+ready ready ADJ JJ acomp xxxx True False
+to to PART TO aux xx True True
+be be AUX VB auxpass xx True True
+eaten eat VERB VBN xcomp xxxx True False
+. . PUNCT . punct . False False
+In in ADP IN prep Xx True True
+a a DET DT det x True True
+ripe ripe ADJ JJ amod xxxx True False
+fruit fruit NOUN NN pobj xxxx True False
+, , PUNCT , punct , False False
+the the DET DT det xxx True True
+pulp pulp NOUN NN nsubj xxxx True False
+is be AUX VBZ ROOT xx True True
+yellow yellow ADJ JJ acomp xxxx True False
+, , PUNCT , punct , False False
+orange orange ADJ JJ conj xxxx True False
+, , PUNCT , punct , False False
+pink pink ADJ JJ conj xxxx True False
+, , PUNCT , punct , False False
+and and CCONJ CC cc xxx True True
+even even ADV RB advmod xxxx True True
+light light ADJ JJ amod xxxx True False
+red red NOUN NN conj xxx True False
+. . PUNCT . punct . False False
+Inside inside ADP IN prep Xxxxx True False
+the the DET DT det xxx True True
+fruit fruit NOUN NN pobj xxxx True False
+, , PUNCT , punct , False False
+there there PRON EX expl xxxx True True
+are be AUX VBP ROOT xxx True True
+many many ADJ JJ amod xxxx True True
+small small ADJ JJ amod xxxx True False
+black black ADJ JJ amod xxxx True False
+seeds seed NOUN NNS attr xxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+Ripe ripe ADJ JJ amod Xxxx True False
+papayas papaya NOUN NNS nsubjpass xxxx True False
+are be AUX VBP auxpass xxx True True
+eaten eat VERB VBN ccomp xxxx True False
+fresh fresh ADJ JJ oprd xxxx True False
+, , PUNCT , punct , False False
+after after ADP IN prep xxxx True True
+taking take VERB VBG pcomp xxxx True False
+out out ADP RP prt xxx True True
+the the DET DT det xxx True True
+skin skin NOUN NN dobj xxxx True False
+and and CCONJ CC cc xxx True True
+the the DET DT det xxx True True
+seeds seed NOUN NNS conj xxxx True False
+; ; PUNCT : punct ; False False
+sometimes sometimes ADV RB advmod xxxx True True
+, , PUNCT , punct , False False
+they they PRON PRP nsubjpass xxxx True True
+are be AUX VBP auxpass xxx True True
+cut cut VERB VBN ROOT xxx True False
+in in ADP IN prep xx True True
+small small ADJ JJ amod xxxx True False
+pieces piece NOUN NNS pobj xxxx True False
+and and CCONJ CC cc xxx True True
+mixed mix VERB VBN conj xxxx True False
+with with ADP IN prep xxxx True True
+other other ADJ JJ amod xxxx True True
+fruits fruit NOUN NNS pobj xxxx True False
+for for ADP IN prep xxx True True
+a a DET DT det x True True
+fruit fruit NOUN NN compound xxxx True False
+salad salad NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+Papayas papayas NOUN NN nsubjpass Xxxxx True False
+that that DET WDT nsubj xxxx True True
+are be VERB VBP relcl xxx True True
+not not PART RB neg xxx True True
+completely completely ADV RB advmod xxxx True False
+ripe ripe ADJ JJ acomp xxxx True False
+can can AUX MD aux xxx True True
+be be AUX VB auxpass xx True True
+cut cut VERB VBN ROOT xxx True False
+in in ADP IN prep xx True True
+pieces piece NOUN NNS pobj xxxx True False
+and and CCONJ CC cc xxx True True
+cooked cook VERB VBN conj xxxx True False
+with with ADP IN prep xxxx True True
+sugar sugar NOUN NN pobj xxxx True False
+and and CCONJ CC cc xxx True True
+eaten eat VERB VBN conj xxxx True False
+as as ADP IN prep xx True True
+dessert dessert NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+In in ADP IN prep Xx True True
+tropical tropical ADJ JJ amod xxxx True False
+regions region NOUN NNS pobj xxxx True False
+, , PUNCT , punct , False False
+it it PRON PRP nsubj xx True True
+is be AUX VBZ ccomp xx True True
+very very ADV RB advmod xxxx True True
+popular popular ADJ JJ acomp xxxx True False
+to to PART TO aux xx True True
+take take VERB VB xcomp xxxx True True
+papaya papaya NOUN NN compound xxxx True False
+juice juice NOUN NN dobj xxxx True False
+, , PUNCT , punct , False False
+after after ADP IN prep xxxx True True
+taking take VERB VBG pcomp xxxx True False
+the the DET DT det xxx True True
+skin skin NOUN NN dobj xxxx True False
+and and CCONJ CC cc xxx True True
+seeds seed NOUN NNS conj xxxx True False
+out out ADP RP prt xxx True True
+; ; PUNCT : punct ; False False
+this this DET DT det xxxx True True
+juice juice NOUN NN nsubjpass xxxx True False
+can can AUX MD aux xxx True True
+be be AUX VB auxpass xx True True
+mixed mix VERB VBN ROOT xxxx True False
+with with ADP IN prep xxxx True True
+milk milk NOUN NN pobj xxxx True False
+to to PART TO aux xx True True
+make make VERB VB advcl xxxx True True
+smoothies smoothie NOUN NNS dobj xxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+Green Green PROPN NNP compound Xxxxx True False
+papayas papaya NOUN NNS nsubjpass xxxx True False
+, , PUNCT , punct , False False
+those those DET DT appos xxxx True True
+that that DET WDT nsubj xxxx True True
+are be VERB VBP relcl xxx True True
+not not PART RB neg xxx True True
+ripe ripe ADJ JJ acomp xxxx True False
+, , PUNCT , punct , False False
+are be AUX VBP auxpass xxx True True
+eaten eat VERB VBN ROOT xxxx True False
+in in ADP IN prep xx True True
+some some DET DT det xxxx True True
+Asiatic asiatic ADJ JJ amod Xxxxx True False
+countries country NOUN NNS pobj xxxx True False
+in in ADP IN prep xx True True
+salads salad NOUN NNS pobj xxxx True False
+, , PUNCT , punct , False False
+curries curry NOUN NNS conj xxxx True False
+and and CCONJ CC cc xxx True True
+soups soup NOUN NNS conj xxxx True False
+but but CCONJ CC cc xxx True True
+they they PRON PRP nsubjpass xxxx True True
+should should AUX MD aux xxxx True True
+be be AUX VB auxpass xx True True
+boiled boil VERB VBN conj xxxx True False
+before before ADP IN prep xxxx True True
+eating eat VERB VBG pcomp xxxx True False
+them they PRON PRP dobj xxxx True True
+. . PUNCT . punct . False False
+Young young ADJ JJ amod Xxxxx True False
+leaves leave VERB VBZ nsubjpass xxxx True False
+and and CCONJ CC cc xxx True True
+stems stem NOUN NNS conj xxxx True False
+are be AUX VBP auxpass xxx True True
+also also ADV RB advmod xxxx True True
+cooked cook VERB VBN ROOT xxxx True False
+as as ADP IN prep xx True True
+a a DET DT det x True True
+vegetable vegetable NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+Green green ADJ JJ amod Xxxxx True False
+papaya papaya NOUN NN nsubjpass xxxx True False
+is be AUX VBZ auxpass xx True True
+used use VERB VBN ROOT xxxx True True
+in in ADP IN prep xx True True
+Thai thai ADJ JJ amod Xxxx True False
+cuisine cuisine NOUN NN pobj xxxx True False
+, , PUNCT , punct , False False
+both both CCONJ CC preconj xxxx True True
+raw raw ADJ JJ advcl xxx True False
+and and CCONJ CC cc xxx True True
+cooked cook VERB VBN conj xxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+The the DET DT det Xxx True True
+papaya papaya NOUN NN nsubj xxxx True False
+is be AUX VBZ ROOT xx True True
+a a DET DT det x True True
+source source NOUN NN attr xxxx True False
+of of ADP IN prep xx True True
+iron iron NOUN NN pobj xxxx True False
+and and CCONJ CC cc xxx True True
+calcium calcium NOUN NN conj xxxx True False
+; ; PUNCT : punct ; False False
+a a DET DT det x True True
+good good ADJ JJ amod xxxx True False
+source source NOUN NN appos xxxx True False
+of of ADP IN prep xx True True
+vitamins vitamin NOUN NNS pobj xxxx True False
+A a NOUN NN nummod X True True
+, , PUNCT , punct , False False
+B B PROPN NNP conj X True False
+and and CCONJ CC cc xxx True True
+Riboflavin Riboflavin PROPN NNP conj Xxxxx True False
+and and CCONJ CC cc xxx True True
+an an DET DT det xx True True
+excellent excellent ADJ JJ amod xxxx True False
+source source NOUN NN conj xxxx True False
+of of ADP IN prep xx True True
+vitamin vitamin NOUN NN compound xxxx True False
+C c NOUN NN pobj X True False
+( ( PUNCT -LRB- punct ( False False
+ascorbic ascorbic NOUN NN compound xxxx True False
+acid acid NOUN NN appos xxxx True False
+) ) PUNCT -RRB- punct ) False False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+The the DET DT det Xxx True True
+latex latex NOUN NN nsubj xxxx True False
+( ( PUNCT -LRB- punct ( False False
+a a DET DT det x True True
+sap sap NOUN NN appos xxx True False
+like like ADP IN prep xxxx True False
+milk milk NOUN NN pobj xxxx True False
+) ) PUNCT -RRB- punct ) False False
+from from ADP IN prep xxxx True True
+the the DET DT det xxx True True
+green green ADJ JJ amod xxxx True False
+fruits fruit NOUN NNS pobj xxxx True False
+, , PUNCT , punct , False False
+the the DET DT det xxx True True
+leaves leave NOUN NNS conj xxxx True False
+and and CCONJ CC cc xxx True True
+the the DET DT det xxx True True
+stem stem NOUN NN conj xxxx True False
+are be AUX VBP ROOT xxx True True
+rich rich ADJ JJ acomp xxxx True False
+in in ADP IN prep xx True True
+papain papain NOUN NN pobj xxxx True False
+, , PUNCT , punct , False False
+an an DET DT det xx True True
+enzyme enzyme NOUN NN appos xxxx True False
+that that DET WDT nsubj xxxx True True
+breaks break VERB VBZ relcl xxxx True False
+down down ADP RP prt xxxx True True
+tough tough ADJ JJ amod xxxx True False
+meat meat NOUN NN compound xxxx True False
+fibers fiber NOUN NNS dobj xxxx True False
+. . PUNCT . punct . False False
+Papain papain NOUN NN nsubj Xxxxx True False
+is be AUX VBZ ROOT xx True True
+a a DET DT det x True True
+component component NOUN NN attr xxxx True False
+in in ADP IN prep xx True True
+products product NOUN NNS pobj xxxx True False
+( ( PUNCT -LRB- punct ( False False
+meat meat NOUN NN compound xxxx True False
+tenderizers tenderizer NOUN NNS appos xxxx True False
+) ) PUNCT -RRB- punct ) False False
+sold sell VERB VBN acl xxxx True False
+in in ADP IN prep xx True True
+shops shop NOUN NNS pobj xxxx True False
+and and CCONJ CC cc xxx True True
+that that DET DT nsubjpass xxxx True True
+is be AUX VBZ auxpass xx True True
+used use VERB VBN conj xxxx True True
+to to PART TO aux xx True True
+make make VERB VB xcomp xxxx True True
+meat meat NOUN NN nsubj xxxx True False
+softer soft ADJ JJR ccomp xxxx True False
+before before ADP IN prep xxxx True True
+cooking cook VERB VBG pcomp xxxx True False
+it it PRON PRP dobj xx True True
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+Papaya papaya NOUN NN compound Xxxxx True False
+seeds seed NOUN NNS nsubj xxxx True False
+have have VERB VBP ROOT xxxx True True
+a a DET DT det x True True
+peppery peppery ADJ JJ amod xxxx True False
+taste taste NOUN NN dobj xxxx True False
+and and CCONJ CC cc xxx True True
+are be VERB VBP conj xxx True True
+a a DET DT det x True True
+great great ADJ JJ amod xxxx True False
+substitute substitute NOUN NN attr xxxx True False
+for for ADP IN prep xxx True True
+black black ADJ JJ amod xxxx True False
+peppercorns peppercorn NOUN NNS pobj xxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False

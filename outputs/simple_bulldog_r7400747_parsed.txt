@@ -1,0 +1,268 @@
+The the DET DT det Xxx True True
+bulldog bulldog NOUN NN nsubj xxxx True False
+, , PUNCT , punct , False False
+known know VERB VBN acl xxxx True False
+as as ADP IN prep xx True True
+the the DET DT det xxx True True
+British British PROPN NNP compound Xxxxx True False
+Bulldog Bulldog PROPN NNP pobj Xxxxx True False
+or or CCONJ CC cc xx True True
+English English PROPN NNP compound Xxxxx True False
+Bulldog Bulldog PROPN NNP conj Xxxxx True False
+, , PUNCT , punct , False False
+is be AUX VBZ ROOT xx True True
+a a DET DT det x True True
+medium medium ADJ JJ amod xxxx True False
+- - PUNCT HYPH punct - False False
+size size NOUN NN compound xxxx True False
+breed breed NOUN NN attr xxxx True False
+of of ADP IN prep xx True True
+dog dog NOUN NN pobj xxx True False
+from from ADP IN prep xxxx True True
+England England PROPN NNP pobj Xxxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+Bulldogs bulldog NOUN NNS nsubj Xxxxx True False
+are be AUX VBP ROOT xxx True True
+medium medium ADJ JJ acomp xxxx True False
+in in ADP IN prep xx True True
+size size NOUN NN pobj xxxx True False
+, , PUNCT , punct , False False
+and and CCONJ CC cc xxx True True
+they they PRON PRP nsubj xxxx True True
+are be VERB VBP conj xxx True True
+wide wide ADJ JJ acomp xxxx True False
+and and CCONJ CC cc xxx True True
+compact compact ADJ JJ conj xxxx True False
+with with ADP IN prep xxxx True True
+large large ADJ JJ amod xxxx True False
+, , PUNCT , punct , False False
+thick thick ADJ JJ amod xxxx True False
+heads head NOUN NNS pobj xxxx True False
+. . PUNCT . punct . False False
+Their their PRON PRP$ poss Xxxxx True True
+muzzle muzzle NOUN NN nsubj xxxx True False
+( ( PUNCT -LRB- punct ( False False
+nose nose NOUN NN appos xxxx True False
+and and CCONJ CC cc xxx True True
+mouth mouth NOUN NN conj xxxx True False
+) ) PUNCT -RRB- punct ) False False
+is be AUX VBZ ROOT xx True True
+short short ADJ JJ acomp xxxx True False
+, , PUNCT , punct , False False
+like like ADP IN prep xxxx True False
+a a DET DT det x True True
+pug pug NOUN NN pobj xxx True False
+'s 's PART POS case 'x False True
+. . PUNCT . punct . False False
+They they PRON PRP nsubj Xxxx True True
+have have VERB VBP ROOT xxxx True True
+stocky stocky ADJ JJ amod xxxx True False
+legs leg NOUN NNS dobj xxxx True False
+at at ADP IN prep xx True True
+each each DET DT det xxxx True True
+corner corner NOUN NN pobj xxxx True False
+of of ADP IN prep xx True True
+their their PRON PRP$ poss xxxx True True
+muscular muscular ADJ JJ amod xxxx True False
+body body NOUN NN pobj xxxx True False
+, , PUNCT , punct , False False
+so so CCONJ CC cc xx True True
+when when ADV WRB advmod xxxx True True
+they they PRON PRP nsubj xxxx True True
+walk walk VERB VBP advcl xxxx True False
+, , PUNCT , punct , False False
+they they PRON PRP nsubj xxxx True True
+take take VERB VBP conj xxxx True True
+short short ADJ JJ amod xxxx True False
+steps step NOUN NNS dobj xxxx True False
+and and CCONJ CC cc xxx True True
+swing swing VERB VB conj xxxx True False
+their their PRON PRP$ poss xxxx True True
+body body NOUN NN dobj xxxx True False
+from from ADP IN prep xxxx True True
+side side NOUN NN pobj xxxx True True
+to to ADP IN prep xx True True
+side side NOUN NN pobj xxxx True True
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+Their their PRON PRP$ poss Xxxxx True True
+fur fur NOUN NN nsubj xxx True False
+comes come VERB VBZ ROOT xxxx True False
+in in ADP IN prep xx True True
+many many ADJ JJ amod xxxx True True
+colors color NOUN NNS pobj xxxx True False
+, , PUNCT , punct , False False
+including include VERB VBG prep xxxx True False
+light light ADJ JJ amod xxxx True False
+brown brown ADJ JJ amod xxxx True False
+, , PUNCT , punct , False False
+white white ADJ JJ conj xxxx True False
+, , PUNCT , punct , False False
+black black ADJ JJ conj xxxx True False
+or or CCONJ CC cc xx True True
+mixed mixed ADJ JJ conj xxxx True False
+( ( PUNCT -LRB- punct ( False False
+brindle brindle NOUN NN pobj xxxx True False
+) ) PUNCT -RRB- punct ) False False
+. . PUNCT . punct . False False
+Black black ADJ JJ nsubj Xxxxx True False
+is be AUX VBZ ROOT xx True True
+not not PART RB neg xxx True True
+a a DET DT det x True True
+desired desire VERB VBN amod xxxx True False
+color color NOUN NN attr xxxx True False
+at at ADP IN prep xx True True
+dog dog NOUN NN compound xxx True False
+shows show NOUN NNS pobj xxxx True False
+, , PUNCT , punct , False False
+but but CCONJ CC cc xxx True True
+black black ADJ JJ amod xxxx True False
+bulldogs bulldog NOUN NNS nsubj xxxx True False
+can can AUX MD aux xxx True True
+compete compete VERB VB conj xxxx True False
+. . PUNCT . punct . False False
+The the DET DT det Xxx True True
+bulldog bulldog NOUN NN nsubjpass xxxx True False
+is be AUX VBZ auxpass xx True True
+recognized recognize VERB VBN ROOT xxxx True False
+by by ADP IN agent xx True True
+the the DET DT det xxx True True
+American American PROPN NNP compound Xxxxx True False
+Kennel Kennel PROPN NNP compound Xxxxx True False
+Club Club PROPN NNP pobj Xxxx True False
+( ( PUNCT -LRB- punct ( False False
+AKC AKC PROPN NNP appos XXX True False
+) ) PUNCT -RRB- punct ) False False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+Bulldogs bulldog NOUN NNS nsubj Xxxxx True False
+are be AUX VBP ROOT xxx True True
+good good ADJ JJ amod xxxx True False
+family family NOUN NN compound xxxx True False
+pets pet NOUN NNS attr xxxx True False
+. . PUNCT . punct . False False
+They they PRON PRP nsubj Xxxx True True
+are be AUX VBP ROOT xxx True True
+also also ADV RB advmod xxxx True True
+brave brave ADJ JJ acomp xxxx True False
+and and CCONJ CC cc xxx True True
+are be VERB VBP conj xxx True True
+good good ADJ JJ amod xxxx True False
+guard guard NOUN NN compound xxxx True False
+dogs dog NOUN NNS attr xxxx True False
+. . PUNCT . punct . False False
+Bulldogs bulldog NOUN NNS nsubj Xxxxx True False
+need need VERB VBP ROOT xxxx True False
+a a DET DT det x True True
+lot lot NOUN NN dobj xxx True False
+of of ADP IN prep xx True True
+human human ADJ JJ amod xxxx True False
+attention attention NOUN NN pobj xxxx True False
+to to PART TO aux xx True True
+be be VERB VB advcl xx True True
+happy happy ADJ JJ acomp xxxx True False
+. . PUNCT . punct . False False
+They they PRON PRP nsubj Xxxx True True
+do do AUX VBP aux xx True True
+not not PART RB neg xxx True True
+need need VERB VB ROOT xxxx True False
+much much ADJ JJ amod xxxx True True
+exercise exercise NOUN NN dobj xxxx True False
+or or CCONJ CC cc xx True True
+grooming grooming NOUN NN conj xxxx True False
+except except SCONJ IN prep xxxx True True
+for for ADP IN prep xxx True True
+the the DET DT det xxx True True
+face face NOUN NN pobj xxxx True False
+, , PUNCT , punct , False False
+which which DET WDT nsubjpass xxxx True True
+should should AUX MD aux xxxx True True
+be be AUX VB auxpass xx True True
+wiped wipe VERB VBN advcl xxxx True False
+daily daily ADV RB advmod xxxx True False
+in in ADP IN prep xx True True
+the the DET DT det xxx True True
+face face NOUN NN pobj xxxx True False
+folds fold VERB VBZ dep xxxx True False
+with with ADP IN prep xxxx True True
+a a DET DT det x True True
+damp damp ADJ JJ amod xxxx True False
+cloth cloth NOUN NN pobj xxxx True False
+. . PUNCT . punct . False False
+They they PRON PRP nsubj Xxxx True True
+weigh weigh VERB VBP ROOT xxxx True False
+53–55 53–55 NUM CD nummod dd–dd False False
+pounds pound NOUN NNS dobj xxxx True False
+( ( PUNCT -LRB- punct ( False False
+24–25 24–25 NUM CD nummod dd–dd False False
+kg kg NOUN NNS appos xx True False
+) ) PUNCT -RRB- punct ) False False
+. . PUNCT . punct . False False
+They they PRON PRP nsubj Xxxx True True
+are be AUX VBP ROOT xxx True True
+12–16 12–16 NUM CD nummod dd–dd False False
+inches inch NOUN NNS attr xxxx True False
+( ( PUNCT -LRB- punct ( False False
+30–41 30–41 PROPN NNP compound dd–dd False False
+cm cm PROPN NNP appos xx True False
+) ) PUNCT -RRB- punct ) False False
+tall tall ADJ JJ amod xxxx True False
+at at ADP IN prep xx True True
+the the DET DT det xxx True True
+shoulders shoulder NOUN NNS pobj xxxx True False
+. . PUNCT . punct . False False
+
+
+ 
+
+ SPACE _SP ROOT 
+
+ False False
+The the DET DT det Xxx True True
+bulldog bulldog NOUN NN nsubjpass xxxx True False
+was be AUX VBD auxpass xxx True True
+originally originally ADV RB advmod xxxx True False
+bred breed VERB VBN ROOT xxxx True False
+to to PART TO aux xx True True
+fight fight VERB VB advcl xxxx True False
+bulls bull NOUN NNS dobj xxxx True False
+during during ADP IN prep xxxx True True
+the the DET DT det xxx True True
+1600s 1600 NOUN NNS pobj ddddx False False
+. . PUNCT . punct . False False
+The the DET DT det Xxx True True
+dog dog NOUN NN poss xxx True False
+'s 's PART POS case 'x False True
+mouth mouth NOUN NN nsubjpass xxxx True False
+is be AUX VBZ auxpass xx True True
+made make VERB VBN ROOT xxxx True True
+to to PART TO aux xx True True
+bite bite VERB VB xcomp xxxx True False
+a a DET DT det x True True
+bull bull NOUN NN poss xxxx True False
+'s 's PART POS case 'x False True
+nose nose NOUN NN dobj xxxx True False
+and and CCONJ CC cc xxx True True
+not not PART RB neg xxx True True
+let let AUX VB aux xxx True False
+go go VERB VB conj xx True True
+. . PUNCT . punct . False False
