@@ -12,6 +12,7 @@ output = open(sys.argv[2], "w")
 nlp = spacy.load("en_core_web_lg")
 doc = nlp(input)
 
+# https://spacy.io/usage/linguistic-features#pos-tagging
 for token in doc:
     output.write("{text} {lemma} {pos} {tag} {dep} {shape} {is_alpha} {is_stop}\n".format(
         text=token.text, lemma=token.lemma_, pos=token.pos_, tag=token.tag_, dep=token.dep_,
