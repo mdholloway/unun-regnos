@@ -1,0 +1,164 @@
+Unun Regnos description grammar minddump
+%%%%%%%%%%%%
+
+Unstructured notes on the grammatical typology of this language.
+
+Quick description: 
+
+Unun Regnos is an ergative-absolutive, head-initial language that is notable for its obligatory incorporation of object nouns, and its usage of nominal classifiers for morphosyntactic agreement, which is used in typologically rare object marking on ergative subjects. Verbal morphology is complex and subsumes the functions of adjectives and adpositions in other languages. There are a number of nominal clitics/morphemes that express speaker attitudes towards the noun -- i.e. honorifics, pejoratives, etc -- and can also convey tense, aspect and modality.
+
+
+%%%%%%%%%%%%
+
+
+
+phonology
+	vowels
+		u, e, o
+
+		vowel length
+		nasality
+		vowel reduction
+
+	consonants
+		r, n, g, s
+
+	phonotactics
+		syllable structure
+			CVC
+		no vowel harmony
+		no tone
+		stress
+
+%%%%%
+morphosyntax
+
+	head first
+		head-modifier word order
+	
+	word order
+		Canonical word order is (VO)S : objects are always incorporated into the verb so always form a word/constiuent.
+
+	morphosyntatic alignment
+		This language is ergative-absolutive aligned. Ergative nouns are marked; absolutive ones are not.
+	
+	POS
+		nouns, verbs
+		no adjectives: are all stative verbs
+		no prepositions: verbal affixes and classifier modification system can handle this
+		probably lots of discourse particle things
+
+	agreement
+		This language is unusual in having object agreement on the ergative subject: a classifier matching the (incorporated object) is affixed to the ergative subject. Functionally we can think of this language as marking all ergative subjects as doing something to a type of thing.
+
+		(ergative subjects) agents: ergative-small VP (non-finite conjunct)
+			ex.
+				girl-ERG-food ERG-be.beautiful apple-eat
+				`The beautiful girl eats an apple.`
+		
+		subjects: classifier-small VP (non-finite conjunct)
+			ex.
+				girl person-be.beautiful laugh
+				`the beautiful girl laughs`
+
+		objects: classifier-small VP (non-finite conjunct)
+			ex.
+				girl-ERG-food apple-eat food-be.freshly.picked
+				`the girl eats the freshly picked apple.`
+
+	adpositions
+		This language probably does not contain adpositions due to objects being incorporated. As a result, adpositional information is conveyed via verbal modification. Intransitive verbs turn into transitive verbs, and trigger ergativity.
+
+		ex.
+			girl-ERG-manmade.structure bridge-sit-under
+			`the girl sits under the bridge`
+
+			girl-ERG-manmade.structure bridge-sit-on
+			`the girl sits on the bridge`
+
+		When modifying objects of transitive verbs with adpositional arguments, classifier-based modification is used in addition to the derivational verbal affixes.
+
+		ex.
+			girl-ERG-food apple-eat-under food-bridge
+			`The girl eats an apple under the bridge.`
+
+	persons
+		1, 2, 3, ...
+
+		1st and 2nd person affixes attach to general classifier for general use.
+		1st and 2nd person affixes can attach to subject nouns to further modify.
+		1st and 2nd person affixes replace incorporated objects when they are objects
+
+		ex.
+			1-general laugh
+			`I laugh.`
+
+			1-girl person-be.beautiful laugh
+			`I, a beautiful girl, laugh`
+
+			girl-ERG-person 1-love
+			`The girl loves me`
+
+	tense-modality
+		There is no obligatory tense marking in this language. Time reference can be expressed via temporal particles (like in Chinese).
+		There is also morphological marking on nouns -- honorifics, perjoratives, etc -- that can roundabout express time reference: one such marking expresses something like `the N I hope exists`, which can be translated either as the future for a specific reference, or tenseless for a specific reference. Below I'll just use HOPE to mark this affix.
+
+		ex.
+			HOPE=girl-ERG-person 1-love
+			`I hope a girl loves me.` [non-specific reference]
+
+			HOPE=Mary-ERG-person 1-love
+			`(I hope) Mary will love me.`	[specific reference gives future time reference interpretation, as it implies change of state for Mary. lit. `The Mary I hope exists loves me.`]
+
+			Mary-ERG-person HOPE=1-love
+			`Mary will love (the new) me.`	[like above, except HOPE modifying 1 means something like "the me I hope to be", implying future time reference]
+
+	number system
+		no number system (no singular/plural/etc)
+		plurality can still be expressed via modification
+	
+	numeral system
+		base 10
+		modification
+			uses classifier-small VP to modify nouns
+			ex.
+				apple fruit-be.5
+				`5 apples`
+	
+
+	noun classes
+		This language uses a number of noun classifiers.
+
+		1:1 correlation? can nouns take different classifiers?
+			probably to emphasize different aspects of the noun
+
+			ex.
+				girl-ERG-liquid maple.tree-harvest
+				`The girl harvested maple syrup.`
+
+				girl-ERG-tool maple.tree-harvest
+				`The girl harvested maple lumber.`
+
+	
+
+
+
+	
+
+
+
+	agglutinative/inflectional
+	verb/satellite-framed
+	evidentials
+	honorifics
+	definiteness
+
+
+* object incorporation with the verb
+* subjects are marked with object-classifiers
+	* ex. (in fake English)
+		Mary-ERG-person John-love
+		Mary-ERG-food apple-eat
+		Mary-ERG-place beach-go
+		Mary-ERG-general computer-use
+		
