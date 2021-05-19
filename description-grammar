@@ -99,6 +99,9 @@ morphosyntax
 			girl-ERG-person 1-love
 			`The girl loves me`
 
+			1-girl-ERG-animal dog-love
+			`I, a girl, love dogs.`
+
 	tense-modality
 		There is no obligatory tense marking in this language. Time reference can be expressed via temporal particles (like in Chinese).
 		There is also morphological marking on nouns -- honorifics, perjoratives, etc -- that can roundabout express time reference: one such marking expresses something like `the N I hope exists`, which can be translated either as the future for a specific reference, or tenseless for a specific reference. Below I'll just use HOPE to mark this affix.
@@ -139,12 +142,56 @@ morphosyntax
 				girl-ERG-tool maple.tree-harvest
 				`The girl harvested maple lumber.`
 
+	demonstratives
+		Particular nominal clitics in this language are used as demonstratives. One clitic (abbreviated here as PROX.DEM) may translate to 'the N close to me', which is translates to Eng. "this". Unlike other modifiers, which use classifier modification as separate units, these nominal clitics attach directly to the VO stem.
+
+			ex.
+				PROX.DEM=girl-ERG-person 1-love
+				`This girl loves me.`
+
+				1-general-ERG-person PROX.DEM=girl-love
+				`I love this girl.`
+
+		When used in combination with person affixes, there is a meaning of metaphorical distance.
+
+			ex.
+				PROX.DEM=2-girl-ERG-person 1-visit
+				`You, a girl who is dear to me, visit me.`
+
+
+	adverbial modification
+		There are no adverbs in this language. Adverbial modification is done by way of verbal affixes that translate "did V in such a way that" (abbreviated ADV) followed by a nominal modification with a classifier.
+
+			ex.
+				girl sing-ADV person-be.loud
+				`The girl sings loudly.` lit. `The girl sings in such a way that the girl is loud.`
+
+				girl sing-ADV work.of.art-be.beautiful
+				`The girl sings beautifully.`
+				`The girl sings a beautiful song.`	lit. `The girl sings in such a way that the song is beautiful.`
+
+				girl sing-ADV work.of.art-be.beautiful person-be.unskilled
+				`The girls sings a beautiful song poorly.`	lit. `The girl sings in such a way that the song is beautiful and the girl is unskilled.`
+
+		Note in the above examples that the classifier-modification does not refer to any NP present in the sentence itself, but the implied "song" noun. We can tell that this NP is not truly present in the clause by the lack of ergativity marking.
 	
 
+	existentials/possessives
+		Existentials are formed using an existential verb.
 
+			ex.
+				city exist-ADV place-Pai-be.called
+				`There is a city called Pai.`	lit. `A city exists in such a way that the city is called Pai.`
 
-	
+		The transitive form of the verb, which triggers ergativity, is used to express posession.
 
+			ex.
+				dog-ERG-person 1-exist-ADV animal-Behemoth-be.called
+				`I have a dog named Behemoth`
+
+			ex.
+				dog animal-1-exist be.cute  	(hmmm, what to do with ergativity here when they're in relativized modifiers)
+				`My dog is cute.`
 
 
 	agglutinative/inflectional
