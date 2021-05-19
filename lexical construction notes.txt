@@ -1,0 +1,46 @@
+Overview
+The plan is to use a phonetic distribution table paired with some very simple phonotactics to create a set of functions that can return phonetically "correct" words as part of a pipline to transform the english tokens to Unun Regnos lexemes.
+B
+
+
+
+
+for token (lemma+tag) in text:
+  for named entities and grammatical elements{
+    generate name or generate function word
+    add to lexicon
+    for punctuation add to lexicon
+  }
+  for other types {
+    get lemma
+    add to words needing clustering
+  }
+cluster words using semantic distance
+for each cluster {
+  generate root
+  for word in cluster
+    expand root
+    add word to lexicon
+}
+
+
+
+generate name
+  some names are returned as English borrowings
+  
+generate functionword
+  function words are short and consist of nucleus + (onset or coda)
+
+generate root
+  roots are single syllable with optional onset
+
+expand root
+  roots are expanded through the addition of additonal syllables or phonemes, or the substituion of phonemes
+
+root phonotactics
+  select onset from stops
+  select nucleus from vowels
+  if nucleus == ə or o
+    select coda from nasals or approximates
+  select coda based on walking the sonority hierarchy, reducing the probabilty at each step
+  approx > nasals > fric > affric > stop
